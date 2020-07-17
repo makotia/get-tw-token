@@ -8,7 +8,7 @@ trim_trailing_whitespace = true
 end_of_line = lf
 charset = utf-8
 
-[*.md, *.rs]
+[*.md]
 indent_size = 4
 
 [*.go]
